@@ -1,0 +1,44 @@
+body {
+  background-color: lavender;
+}
+.header {
+  height: 50px;
+  color: mediumpurple;
+  font-family: serif;
+  text-align: center;
+}
+.main {
+  text-align: center;
+  margin-bottom: 70px;
+}
+form {
+  padding: 60px 30px;
+}
+.footer {
+  height: 100px;
+}
+.footer p {
+  text-align: center;
+  font-size: 12px;
+}
+.footer p a {
+  color: lightslategrey;
+}
+.footer p a span {
+  color: lightcoral;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  padding-left: unset;
+}
+ul li {
+  list-style-type: none;
+}
+p {
+  color: plum;
+  font-size: 15px;
+  font-weight: bold;
+}
