@@ -1,0 +1,41 @@
+.caontainer {
+  position: relative;
+}
+.box_1 {
+  width: 500px;
+  height: 349px;
+  background-color: coral;
+  position: absolute;
+  opacity: 0.3;
+  top: 200px;
+  z-index: 20;
+  left: 300px;
+}
+.box_2 {
+  width: 500px;
+  height: 349px;
+  z-index: 10;
+  background-color: lightseagreen;
+  position: absolute;
+  opacity: 0.3;
+  z-index: 15;
+  top: 200px;
+  left: 250px;
+}
+.box_3 {
+  width: 500px;
+  height: 349px;
+  background-color: lightskyblue;
+  position: absolute;
+  opacity: 0.3;
+  z-index: 10;
+  top: 200px;
+  left: 200px;
+}
+
+.pract_img {
+  width: 536px;
+  height: 349px;
+  position: absolute;
+  top: 200px;
+}
